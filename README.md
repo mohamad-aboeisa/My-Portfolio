@@ -76,9 +76,7 @@ While building this project, I improved my skills in:
 
 You can check the live demo here:
 
-🔗 [Live Demo](#)
-
-> Replace this link with your deployed portfolio URL
+🔗 [Live Demo](https://mohamad-aboeisa.github.io/My-Portfolio/)
 
 ---
 
@@ -86,7 +84,7 @@ You can check the live demo here:
 
 If you'd like to connect or collaborate:
 
-- LinkedIn: [Mohamad Osama](www.linkedin.com/in/mohamad-osama-aboeisa)
+- LinkedIn: [Mohamad Osama](https://www.linkedin.com/in/mohamad-osama-aboeisa/)
 - GitHub: [mohamad aboeisa](https://github.com/mohamad-aboeisa)
 - Email: mohamad.aboeisa2000@gmail.com
 
