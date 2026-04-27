@@ -13,7 +13,9 @@ It includes:
 
 - Hero section with introduction
 - Skills showcase
+- Media section
 - Projects / Portfolio section
+- Reviews about me
 - Contact section
 - Fully responsive layout for all devices
 
@@ -46,13 +48,15 @@ This project was built using:
 ## 📂 Project Structure
 
 ```bash
-Portfolio/
+My Portfolio WebSite/
 │
 ├── index.html
+├── style.scss
+│
 ├── styles/
 │   └── style.css
 │   └── style.css.map
-├── style.scss
+│
 ├── components/
 │   
 │
@@ -76,9 +80,7 @@ While building this project, I improved my skills in:
 
 You can check the live demo here:
 
-🔗 [Live Demo](#)
-
-> Replace this link with your deployed portfolio URL
+🔗 [Mohamad Osama](https://mohamad-aboeisa.github.io/My-Portfolio/)
 
 ---
 
@@ -86,7 +88,7 @@ You can check the live demo here:
 
 If you'd like to connect or collaborate:
 
-- LinkedIn: [Mohamad Osama](www.linkedin.com/in/mohamad-osama-aboeisa)
+- LinkedIn: [Mohamad Osama](https://www.linkedin.com/in/mohamad-osama-aboeisa/)
 - GitHub: [mohamad aboeisa](https://github.com/mohamad-aboeisa)
 - Email: mohamad.aboeisa2000@gmail.com
 
